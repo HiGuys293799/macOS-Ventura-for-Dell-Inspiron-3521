@@ -860,7 +860,7 @@
 					<key>Comment</key>
 					<string>Allow IOSkywalk Downgrade</string>
 					<key>Enabled</key>
-					<false/>
+					<true/>
 					<key>Identifier</key>
 					<string>com.apple.iokit.IOSkywalkFamily</string>
 					<key>MaxKernel</key>
@@ -1343,7 +1343,7 @@
 			<key>Debug</key>
 			<dict>
 				<key>AppleDebug</key>
-				<true/>
+				<false/>
 				<key>ApplePanic</key>
 				<true/>
 				<key>DisableWatchDog</key>
@@ -1557,7 +1557,7 @@
 				<key>SystemSerialNumber</key>
 				<string>C02KRBZZF5V7</string>
 				<key>SystemUUID</key>
-				<string>7810D430-0894-4267-A3B0-F3C326C0544</string>
+				<string>84FFA3F1-409A-40B3-A304-CDC435EAA311</string>
 			</dict>
 			<key>UpdateDataHub</key>
 			<true/>
